@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kamilapereira/to-dos/static/css/main.073c9b0a.css",
+    "main.js": "/kamilapereira/to-dos/static/js/main.7ee66135.js",
+    "static/js/787.def4d3b7.chunk.js": "/kamilapereira/to-dos/static/js/787.def4d3b7.chunk.js",
+    "index.html": "/kamilapereira/to-dos/index.html",
+    "main.073c9b0a.css.map": "/kamilapereira/to-dos/static/css/main.073c9b0a.css.map",
+    "main.7ee66135.js.map": "/kamilapereira/to-dos/static/js/main.7ee66135.js.map",
+    "787.def4d3b7.chunk.js.map": "/kamilapereira/to-dos/static/js/787.def4d3b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7ee66135.js"
+  ]
+}
